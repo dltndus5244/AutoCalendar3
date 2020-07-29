@@ -1,0 +1,2 @@
+rootProject.name='AutoCalendar3'
+include ':app'
